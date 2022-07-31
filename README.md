@@ -1,4 +1,4 @@
-# pash-barse-script-c
+# parse-bash-script-c
 A C Program to parse a file containing bash script and execute them,
 
 
